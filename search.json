@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yili Du",
+    "section": "",
+    "text": "ψ = E[Y(1) − Y(0)]\n          Y(a) ⫫ A | W\n          √n (ψₙ − ψ) ⇝ N(0, σ²)\n          E[Y(a)] = E{ E[Y | A = a, W] }\n          ψ(δ) = E[ Y(A + δ) ]\n          P(A = 1 | W) &gt; 0\n      \n    \n    \n      \n          φ = A(Y − μ) / π + μ − ψ\n          Aᵈ = d(A, W) = A + δ\n          E[Y | do(A = a)]\n          Var(θₙ) ≥ 1 / I(θ)\n          S(t) = ∏ (1 − dΛ(s))\n          F₁(t) = P(T ≤ t, J = 1)\n      \n    \n  \n\n  \n  \n\n  \n    Yili Du\n    PhD Student in BiostatisticsNew York University\n    \n      Causal Inference\n      Semiparametric Inference\n      Machine Learning\n      Longitudinal Data\n      Survival Analysis\n      Health Policy\n      Clinical Decision-Making"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Yili Du",
+    "section": "About",
+    "text": "About\nI am a PhD student in Biostatistics at NYU Grossman School of Medicine, advised by Iván Díaz. My research focuses on developing causal inference methods to evaluate the effects of treatment strategies on health outcomes, with an emphasis on semiparametric theory and machine learning. My work is motivated by applications in neurology, health policy, and clinical decision-making. I also work with Nicholas Illenberger on measurement error correction in longitudinal causal inference.\nBefore joining NYU, I earned an MS in Biostatistics at Boston University, advised by Charlene J. Ong, Shariq Mohammed, and Laura White. My research assistant work with Dr. Ong at Boston Medical Center and Massachusetts General Hospital focused on dynamic risk prediction for patients with large ischemic stroke using longitudinal clinical data and brain imaging. At the University of Pennsylvania, I was advised by Scott L. Diamond on biomedical research and worked with Ryan J. Urbanowicz on developing machine learning pipelines for clinical outcome prediction. I also worked at Pfizer in the Biometrics & Data Sciences groups on clinical trial design and data science methods for trial monitoring.\n\n\nEducation\nPhD, Biostatistics · New York University\nMS · Boston University (Biostatistics) and University of Pennsylvania (Biopharmaceuticals/Engineering)\n\n\nAwards\nChina National Scholarship\nOutstanding Graduate\nTop 100 Excellence in Graduation Thesis Award\nFirst-Class Scholarship for Academic Excellence"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Yili Du",
+    "section": "News",
+    "text": "News\n\n\n\n\nOct 2026\n📄 New first-author paper in Neurocritical Care: Quantified brain atrophy and risk of severe mass effect in acute ischemic stroke.\n\n\nMay 2026\n📄 New first-author paper in Neurocritical Care: Integrating brain imaging volumetrics and quantitative pupillometry for predicting neurologic deterioration after large hemispheric stroke.\n\n\nMar 2026\n⭐ Highlight: our Annals of Neurology pupillometry paper was reviewed in NCS Currents, the news site of the Neurocritical Care Society.\n\n\nMay 2025\n📄 Co-authored paper in npj Digital Medicine: Hybrid machine learning for real-time prediction of edema trajectory in large middle cerebral artery stroke.\n\n\nMay 2025\n✉️ Our reply to a letter on quantitative pupillometry was published in Annals of Neurology.\n\n\n2025\n⭐ Highlight: the Annals of Neurology paper was covered by EMJ and reviewed on Clinician.com.\n\n\nApr 2025\n📄 Co-authored paper in Critical Care Explorations: Early pupil abnormality frequency predicts poor outcomes and enhances IMPACT model prognostication in traumatic brain injury.\n\n\nJan 2025\n📄 First-author paper in Annals of Neurology: Quantitative pupillometry predicts neurologic deterioration in patients with large middle cerebral artery stroke.\n\n\n\n\n\n\nShow more news\n\n\n\n\n\nOct 2024\n🎤 Two presentations at the Neurocritical Care Society Annual Meeting in San Diego.\n\n\nJul 2024\n📄 Co-authored paper in Neurocritical Care: Association of dynamic trajectories of time-series data and life-threatening mass effect in large middle cerebral artery stroke."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Yili Du",
+    "section": "Publications",
+    "text": "Publications\n\nPeer-reviewed articles\n\nPublishedFirst author2026\nQuantified Brain Atrophy and Risk of Severe Mass Effect in Acute Ischemic Stroke\nY. Du, A. Z. Altaf, N. J. Ibrahim, S. Chatzidakis, L. A. Mallinger, A. L. Reinert, R. A. Stafford, A. Kumar, A. Avula, M. Abdalkader, H. Cheng, D. M. Greer, R. Dhar, and C. J. Ong\nNeurocritical Care (online ahead of print), 2026\nPaper Free to read\n\n\nPublishedFirst author2026\nIntegrating Brain Imaging Volumetrics and Quantitative Pupillometry for Predicting Neurologic Deterioration after Large Hemispheric Stroke\nY. Du, L. A. Mallinger, A. L. Reinert, S. Chatzidakis, N. J. Ibrahim, G. Wirth, A. Kumar, A. Avula, H. Cheng, D. M. Greer, R. Dhar, and C. J. Ong\nNeurocritical Care, 45:338–350, 2026\nPaper Free to read Preprint\n\n\nPublishedFirst author2025\nQuantitative Pupillometry Predicts Neurologic Deterioration in Patients with Large Middle Cerebral Artery Stroke\nY. Du, J. E. Pohlmann, S. Chatzidakis, B. Brush, L. A. Mallinger, R. A. Stafford, A. M. Cervantes-Arslanian, E. J. Benjamin, E. J. Gilmore, J. Dupuis, D. M. Greer, S. M. Smirnakis, S. Mohammed, and C. J. Ong\nAnnals of Neurology, 97(5):930–941, 2025\nPaper In the news: NCS Currents · EMJ · Clinician.com\n\n\nPublished2025\nHybrid Machine Learning for Real-Time Prediction of Edema Trajectory in Large Middle Cerebral Artery Stroke\nE. Phillips, O. O'Donoghue, Y. Zhang, P. Tsimpos, L. A. Mallinger, S. Chatzidakis, J. E. Pohlmann, Y. Du, I. S. Y. Kim, J. J. Song, B. Brush, S. M. Smirnakis, C. J. Ong, and A. Orfanoudaki\nnpj Digital Medicine, 8:288, 2025\nPaper\n\n\nPublished2025\nEarly Pupil Abnormality Frequency Predicts Poor Outcomes and Enhances IMPACT Model Prognostication in Traumatic Brain Injury\nD. Veerapaneni, N. Arunachalam Sakthiyendran, Y. Du, L. A. Mallinger, A. L. Reinert, S. Y. Kim, C. Nguyen, A. Daneshmand, M. Abdalkader, S. Mohammed, J. Dupuis, K. N. Sheth, E. J. Gilmore, D. M. Greer, and C. J. Ong\nCritical Care Explorations, 7(5):e1257, 2025\nPaper\n\n\nPublished2025\nAssociation of Dynamic Trajectories of Time-Series Data and Life-Threatening Mass Effect in Large Middle Cerebral Artery Stroke\nC. J. Ong, Q. Huang, I. S. Y. Kim, J. E. Pohlmann, S. Chatzidakis, B. Brush, Y. Zhang, Y. Du, L. A. Mallinger, E. J. Benjamin, J. Dupuis, D. M. Greer, S. M. Smirnakis, and L. Trinquart\nNeurocritical Care, 42:77–89, 2025\nPaper\n\n\n\nLetters and commentaries\n\nLetterFirst authorLetter to the Editor2025\nReply to “Revolutionizing Neuroprognostication: The Enduring Value of Pupillary Reflexes Enhanced by Quantitative Pupillometry”\nY. Du, and C. J. Ong\nAnnals of Neurology, 98(1):202, 2025\nPaper"
+  },
+  {
+    "objectID": "index.html#talks",
+    "href": "index.html#talks",
+    "title": "Yili Du",
+    "section": "Talks",
+    "text": "Talks\n\nNeurocritical Care Society Annual Meeting · San Diego, CA · October 2024\n\nQuantitative Pupillometry Predicts Neurologic Deterioration in Patients with Large Middle Cerebral Artery Stroke. Presentation. Published paper\nQuantitative Pupillometry Post-Decompression Predicts Severe Neurologic Disability in Patients with Acute Brain Injury. Presentation."
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Yili Du",
+    "section": "Teaching",
+    "text": "Teaching\n\nTeaching Assistant · Division of Biostatistics, New York University\n\nEHSC-GA 2336: Introduction to Statistical Inference I · Fall 2026\nEHSC-GA 2340: Regression Modeling I · Fall 2026"
+  }
+]
